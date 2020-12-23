@@ -1,5 +1,7 @@
 # Banco del futuro
 
+A continuación se explica el diagrama Archimate con el planteamiento de la solución a las problemáticas de Banco del Futuro. El diagrama se peude encontrar en: [Banco del futuro](Hard Skills.pdf).
+
 ## Motivación
 En la primera capa se encuentra explicada la Motivación del proyecto. Se seleccionaron 4 motivadores de la lista planteada en el enunciado. 
 -	Tiempo de construcción de nuevos servicios con entidades externas (Time to Market)
